@@ -1,0 +1,56 @@
+LogLens Proprietary License Agreement
+-------------------------------------
+
+Copyright (c) 2025 LogLens Team
+
+All rights reserved.
+
+1. License Grant
+---------------
+LogLens ("Software") is licensed, not sold, to you for internal use only.
+You may install and run the Software on your machines solely for your organization's internal operations.
+
+2. Restrictions
+---------------
+You MAY NOT:
+- Redistribute, sublicense, sell, rent, lease, or transfer the Software or any part of it to third parties.
+- Modify, reverse engineer, decompile, disassemble, or create derivative works based on the Software.
+- Remove or alter any proprietary notices or labels on the Software.
+- Use the Software in violation of any applicable laws or regulations.
+- Use or distribute the Software in a manner that competes with LogLens or its business interests.
+
+3. AI Model Use
+---------------
+The Software uses the LLaMA 3.2 model through Ollama.
+You are responsible for complying with all terms, licenses, and policies related to LLaMA and Ollama.
+LogLens Team holds no liability for any use or misuse of the AI model by the licensee.
+
+4. Warranty Disclaimer
+----------------------
+THE SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.
+
+5. Limitation of Liability
+--------------------------
+IN NO EVENT SHALL LOGLENS TEAM BE LIABLE FOR ANY DAMAGES ARISING OUT OF
+OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THE SOFTWARE, INCLUDING
+BUT NOT LIMITED TO DIRECT, INDIRECT, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES.
+
+6. Termination
+--------------
+This License is effective until terminated.
+Your rights under this License will terminate automatically without notice if you fail to comply with any terms.
+Upon termination, you must cease all use of the Software and delete all copies.
+
+7. Governing Law
+----------------
+This Agreement shall be governed by and construed under the laws of the jurisdiction of the LogLens Team's headquarters.
+
+---
+
+BY USING THE SOFTWARE, YOU ACKNOWLEDGE THAT YOU HAVE READ,
+UNDERSTAND, AND AGREE TO BE BOUND BY THIS LICENSE AGREEMENT.
+
+LogLens Team
+2025
